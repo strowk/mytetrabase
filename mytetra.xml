@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="14867202256x2wue3nsx" name="MyTetra">
+   <node crypt="" id="1486753369o9v8rh03q5" name="issues">
+    <recordtable>
+     <record id="1486720250xvpvoyvu43" name="Горячие клавиши" author="me" url="" tags="shortcut;mytetra" ctime="20170210220255" dir="14867202502gy67f1ujp" file="text.html" block="1"/>
+     <record id="1486745839c3n348gxuq" name="Текстовый редактор" author="me" url="" tags="mytetra;editor" ctime="20170210220257" dir="14867458398dkareldr2" file="text.html" block="1"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1486753435tjlwjlifbx" name="Welcome Item">
+    <recordtable>
+     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20170210220355" dir="1300000000aaaaaaaaa2" file="text.html" block=""/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1486754007jkt8p5ztt5" name="UkM1U0lNUAM9IRLYafmr4jOalrp1bnz0zYdX3MPq8pkAiXxu4AspAJ+k0ao1YHqv"/>
+  <node crypt="" id="1486754363gd0n0t6ek3" name="drafts">
+   <recordtable>
+    <record id="1486842550lvftx0q93l" name="draft" author="" url="" tags="" ctime="20170211224910" dir="1486842550u2s0rjawys" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
